@@ -45,15 +45,15 @@ description: "This is the python programming portfolio for Oladunni Tolu "
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: LinkedIn
-    url: http://twitter.com/jekyllrb
-  - title: Whatsapp
+  - title: linkedin
+    url: www.linkedin.com/in/tolu-oladunni
+  - title: whatsapp
     url: https://wa.me/08176221697
   #- title: stack-overflow
    # url: http://stackoverflow.com/questions/tagged/jekyll
   #- title: bitbucket 
    # url: http://bitbucket.org/jekyll
-  - title: GitHub
+  - title: gitHub
     url: https://github.com/jrhtdo
 
 # Postal address (add as many lines as necessary)
