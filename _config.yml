@@ -1,0 +1,65 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Oladunni Tolu Portfolio
+email: your-email@domain.com
+description: "This is the python programming portfolio for Oladunni Tolu "
+
+
+# Team names, titles and social links
+#people:
+#- name: Oladunni Tolu
+ # pic: 1
+  #position: Lead Designer
+  #social:
+   # - title: twitter
+    #  url: #
+    #- title: facebook
+     # url: #
+    #- title: stack-overflow
+     # url: #
+
+#- name: Larry Parker
+ # pic: 2
+  #position: Lead Marketer
+  #social:
+   # - title: twitter
+    #  url: #
+    #- title: facebook
+     # url: #
+    #- title: linkedin
+     # url: #
+
+#- name: Diana Petersen
+ # pic: 3
+  #position: Lead Developer
+  #social:
+   # - title: twitter
+    #  url: #
+    #- title: facebook
+     # url: #
+    #- title: google-plus
+     # url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: LinkedIn
+    url: http://twitter.com/jekyllrb
+  - title: Whatsapp
+    url: https://wa.me/08176221697
+  #- title: stack-overflow
+   # url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket 
+   # url: http://bitbucket.org/jekyll
+  - title: GitHub
+    url: https://github.com/jrhtdo
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Nigeria
+ # - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
