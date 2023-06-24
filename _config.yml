@@ -1,6 +1,6 @@
 theme: jekyll-agency
 url: https://jrhtdo.github.io/
-baseurl: /jrhtdo.github.io/
+baseurl: https://jrhtdo.github.io/blog
 
 # Site settings
 title: Oladunni Tolu Portfolio
