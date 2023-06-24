@@ -53,7 +53,7 @@ social:
    # url: http://stackoverflow.com/questions/tagged/jekyll
   #- title: bitbucket 
    # url: http://bitbucket.org/jekyll
-  - title: gitHub
+  - title: github
     url: https://github.com/jrhtdo
 
 # Postal address (add as many lines as necessary)
