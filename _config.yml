@@ -14,7 +14,7 @@ description: "This is the python programming portfolio for Oladunni Tolu "
  # pic: 1
   #position: Lead Designer
   #social:
-    - title: python
+  #  - title: python
     #  url: #
     #- title: facebook
      # url: #
@@ -25,7 +25,7 @@ description: "This is the python programming portfolio for Oladunni Tolu "
  # pic: 2
   #position: Lead Marketer
   #social:
-    - title: html
+    #- title: html
     #  url: #
     #- title: facebook
      # url: #
@@ -36,7 +36,7 @@ description: "This is the python programming portfolio for Oladunni Tolu "
  # pic: 3
   #position: Lead Developer
   #social:
-    - title: linux
+  #  - title: linux
     #  url: #
     #- title: facebook
      # url: #
