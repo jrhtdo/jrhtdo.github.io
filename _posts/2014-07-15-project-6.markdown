@@ -1,0 +1,15 @@
+---
+title: Personal code
+subtitle:
+layout: default
+modal-id: 6
+date: 
+img: practice.jpeg
+thumbnail: practice.jpeg
+alt: image-alt
+project-date: 
+client: 
+category: 
+description: This is a collection of short automation codes that were written by me as practice
+
+---
