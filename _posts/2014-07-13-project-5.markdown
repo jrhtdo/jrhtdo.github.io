@@ -2,7 +2,7 @@
 title: Django Challenge
 subtitle: Web development/django
 layout: default
-modal-id: 6
+modal-id: 5
 date: 2023-05-27
 img: inventors.png
 thumbnail: inventors.png
