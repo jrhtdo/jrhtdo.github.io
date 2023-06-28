@@ -1,15 +1,14 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Langya virus
+subtitle: Task automation
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 2023-03-8
+img: langya.jpeg
+thumbnail: langya.jpeg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+client: Helix Biogen Institute
+category: Task automation
+description: This project was done to automate certain tasks involved in the study of langya virus at Helix Biogen Institute
 ---
