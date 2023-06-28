@@ -1,0 +1,15 @@
+---
+title: H3AGWAS
+subtitle: Data Analysis
+layout: default
+modal-id: 4
+date: 2023-02-2
+img: h3agwas.jpg
+thumbnail: h3agwas.jpg
+alt: image-alt
+project-date: February 2023
+client: H3ABioNet
+category: Data Analysis
+description: I contributed to, and used this in a training on human Genome Wide Association Study (GWAS)
+
+---
