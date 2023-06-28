@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Django Challenge
+subtitle: Web development/django
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+date: 2023-05-27
+img: inventors.png
+thumbnail: inventors.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: May 2023
+client: Inventors Dev
+category: Web Development/django
+description: This was done as a test to qualify to partake in a challenge to build an app that solves one of the problems of the Sustainable Development Goals. I qualified.
 
 ---
