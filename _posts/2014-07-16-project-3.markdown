@@ -7,7 +7,7 @@ date: 2022-12-19
 img: vaccine.jpeg
 thumbnail: vaccine.jpeg
 alt: image-alt
-project-date: April 2014
+project-date: December 2022
 client: Helix Biogen Institute
 category: Task Automation
 description: This is a collection of code that was used to automate tasks involved in vaccine development at Helix Biogen Institute
